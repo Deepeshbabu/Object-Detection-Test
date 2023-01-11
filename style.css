@@ -1,0 +1,42 @@
+.heading
+{
+font-size: 30px;
+width: 100%;
+margin: 0px;
+font-weight: bolder;
+}
+
+#status
+{
+font-size: 18px;
+}
+
+body 
+{
+    background-size: cover;
+    background-position: center;
+}
+
+#a1 
+{
+    margin-top: 100px;
+    width: 500px;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+
+#a2 
+{
+    margin-top: 100px;
+    width: 500px;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
+
+#a3 
+{
+    margin-top: 100px;
+    width: 500px;
+    margin-bottom: 50px;
+    font-size: 25px;
+}
