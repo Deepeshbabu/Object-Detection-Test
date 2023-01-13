@@ -47,3 +47,9 @@ canvas
     box-shadow: 10px 10px 10px grey;
     border-radius: 10px;
 }
+
+.back 
+{
+    margin: 15px;
+    float: right;
+}
